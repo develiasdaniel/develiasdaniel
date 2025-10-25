@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm **Elias**
 
-💡 *Software Engineer | .NET/Azure Developer | Cloud and IA Enthusiast*
+💡 *Software Engineer | .NET/Azure Dev | Cloud and IA Enthusiast | Ph.D. Student*
 
 ---
 
 ### 🚀 About Me
-I’m a passionate software engineer from Oaxaca, Mexico, with a strong interest in building reliable, scalable, and efficient software systems.  
-My work combines **clean architecture, cloud computing**, and **automation** to create solutions that improve performance and deliver measurable impact.
+I’m a passionate software engineer from Oaxaca, Mexico, with a strong interest in building reliable, scalable, and efficient software systems. Currently pursuing my **Ph.D. in Computer Science** at the **University at Albany (SUNY)**. My work combines **clean architecture, cloud computing**, and **automation** to create solutions that improve performance and deliver measurable impact.
 
 - 💼 Experienced in **.NET, Azure, and DevOps**.  
 - 🧩 Focused on **software quality, maintainability, and performance**.  
@@ -59,6 +58,15 @@ When I’m not coding, I enjoy sharing knowledge, contributing to social project
 
 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
 📧 eliasdanielsanchezlopez@email.com  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=develiasdaniel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develiasdaniel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
