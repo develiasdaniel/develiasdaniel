@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# 👋 Hi there, I'm **Elias Daniel Sánchez**
+# 👋 Hi there, I'm **Elias**
 
 💡 *Software Engineer | .NET/Azure Developer | Cloud and IA Enthusiast*
 
@@ -20,17 +18,16 @@ My work combines **clean architecture, cloud computing**, and **automation** to 
 
 ### 🧠 Technical Stack
 
-**Languages:**  
+**Languages, Frameworks & Tools**  
 C#, Python, JavaScript, SQL
-
-**Frameworks & Tools:**  
 .NET, React, Git, Docker, Postman  
 
 **Cloud & Databases:**  
-Azure, SQL Server, PostgreSQL  
+Azure Cloud, Azure DevOps, SQL Server, PostgreSQL  
 
 **Other Interests:**  
 AI, Data Analytics
+
 ---
 
 ### 🛠️ Highlighted Projects
@@ -38,21 +35,18 @@ AI, Data Analytics
 - **🌿 Smart Campus Analytics System (IPN Zacatenco)**  
   Web platform for environmental performance indicators — reduced query times by 50% and implemented ML-based predictions for air quality.
 
-- **🐝 APPIS-ATM**  
-  IoT-based system for automated beehive monitoring, funded with MXN 30,000 through *Oaxaca Emprende.*
-
-- **🧩 Data Cleanser (UST CodeGames)**  
+- **🧩 Data Cleanser**  
   Encryption system for sensitive client data. 🥈 *2nd place 2023.*
 
-- **🤖 LLM-Based Request Generator (UST CodeGames)**  
+- **🤖 LLM-Based Request Generator**  
   Interactive automation assistant powered by Large Language Models. 🥈 *2nd place 2024.*
 
 ---
 
 ### 📜 Certifications
 
-- **AZ-900: Microsoft Azure Fundamentals – Microsoft (2022)**  
-- **MIT Professional Education – Leading Digital Transformation (2020)**
+- **AZ-900: Microsoft Azure Fundamentals – Microsoft**  
+- **MIT Professional Education – Leading Digital Transformation**
 
 ---
 
@@ -64,8 +58,7 @@ When I’m not coding, I enjoy sharing knowledge, contributing to social project
 ### 📫 Get in Touch
 
 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
-📧 eliasdaniel.sanchez@email.com  
-🐙 [GitHub](https://github.com/yourusername)
+📧 eliasdanielsanchezlopez@email.com  
 
 ---
 
