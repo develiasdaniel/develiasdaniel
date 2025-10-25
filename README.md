@@ -56,8 +56,9 @@ When I’m not coding, I enjoy sharing knowledge, contributing to social project
 
 ### 📫 Get in Touch
 
-🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
+🌐 [LinkedIn](https://www.linkedin.com/in/eliasdsanchez/)  
 📧 eliasdanielsanchezlopez@email.com  
+🌍 [Website](https://develiasdaniel.github.io/elias-codes-folio/)
 
 ---
 
